@@ -9,7 +9,7 @@
         <relativePath/>
     </parent>
     <groupId>com.project</groupId>
-    <artifactId>school-managment-b181</artifactId>
+    <artifactId>ContactMessageApplication</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>school-management</name>
     <description>school-management</description>
